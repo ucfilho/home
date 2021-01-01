@@ -5,7 +5,7 @@ body
 
 hr
 {
-  background-color: #a3ddcb;
+  background-color: #94b4a4;
   border-style: none;
   height: 2px;
   width: 40%;
@@ -14,9 +14,15 @@ hr
 h1
 {
   color: #11698e;
+  font-size: 25px;
 }
 
 h3
 {
   color: #11698e;
+}
+
+p
+{
+  font-size: 15px;
 }
